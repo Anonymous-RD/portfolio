@@ -12,6 +12,10 @@ import {
   EthGlobalLogo,
   IEEELogo,
   ThirdwebLogo,
+  Google,
+  cttc,
+  Hacktoberfest,
+  CB,
   Cosensys,
   DeveloperDao,
   Apple,
@@ -23,6 +27,10 @@ import {
   VideoFast,
   TextBehindImage,
   Bulletpen,
+  WB,
+  Bput,
+  christ,
+  samsung,
 } from "@/public";
 
 export const RESUME_DATA = {
@@ -102,7 +110,7 @@ export const RESUME_DATA = {
       // link: "https://textbehindimage.app",
       badges: ["Mobile Dev", "Design tool"],
       title: "Coding Blocks",
-      logo: TextBehindImage,
+      logo: CB,
       date: "Since January 2025",
       description:
         "Increased app engagement by 12% through performance optimizations and UI/UX improvements. Reduced crash rates by 7%  by identifying and fixing memory leaks and rendering issues Guided students in building production-ready Android apps, preparing them for industry roles.",
@@ -115,7 +123,7 @@ export const RESUME_DATA = {
       // link: "https://textbehindimage.app",
       badges: ["Google Cloud", "GCP", "Colaboration"],
       title: "Google Cloud ",
-      logo: ThirdwebLogo,
+      logo: Google,
       date: "Since October 2024",
       description:
         "Exploring and leveraging Google Cloud services like Compute Engine, Cloud Functions, BigQuery, Firebase, and Kubernetes. Building and deploying cloud-based applications, optimizing performance and cost efficiency.Engaging with the Google Cloud community, participating in tech talks, webinars, and hackathons.",
@@ -128,7 +136,7 @@ export const RESUME_DATA = {
       // link: "https://textbehindimage.app",
       badges: ["MERN", "Cloud", "Hosting"],
       title: "Web_Bocket pvt",
-      logo: DeveloperDao,
+      logo: WB,
       date: "July 2024 - December 2024",
       description:
         "Spearheaded multiple projects aligned with organizational goals.Demonstrated innovation and        problem-solving skills in project execution.Contributed to enhancing departmental productivity and efficiency Developed and launched departmental website, improving internal communication. Showcased technical prowess in web development and UI/UX design.Ensured usability and accessibility through responsive design practices.",
@@ -142,7 +150,7 @@ export const RESUME_DATA = {
       badges: ["Full-Stack", "Java", "Database"],
       title: " MSME CTTC govt of India",
 
-      logo: ThirdwebLogo,
+      logo: cttc,
       date: "July 2024 - December 2024",
       description:
         "Directed and delivered numerous projects in alignment with organizational objectives, fostering innovation and boosting departmental efficiency, development and launch of a departmental website that streamlined internal communication while applying advanced web development and UI UX design skills to ensure a user-friendly, accessible, and responsive experience",
@@ -181,10 +189,32 @@ export const RESUME_DATA = {
       // link: "https://hacktoberfest.digitalocean.com/",
       badges: ["Hacktoberfest", "Open Source", "Digital Ocean"],
       title: "Hacktoberfest 2024",
-      logo: Bulletpen,
+      logo: Hacktoberfest,
       date: "October 2024",
       description:
         "Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and other companies.  I contributed to open source projects on GitHub and earned a limited edition stickers.",
+      // link: "https://www.hkbcol.org/",
+      link: "",
+      // badges: ["Google ", "GCP", "Google cloud"],
+      // title: "Google Cloud Innovator",
+      // logo: Olympiad,
+      // date: "October 2024",
+      // description:
+      //   "The HKBCOL is a blockchain solution design competition where teams from all secondary schools from Hong Kong compete to pitch and present their blockchain solution to industry leading judges. I was awarded the gold medal (first place) for my project Proof of Workout Protocol and selected to represent Hong Kong at the International Blockchain Olympiad in the Netherlands.",
+      // videoLink: "https://www.youtube.com/watch?v=OYj3Vru7Y4g",
+      projectDetailsLink: "",
+      // projectDetailsLink:
+      //  "https://github.com/rexanwong/proof-of-workout-protocol",
+    },
+    {
+      name: "Samsung Coding and programming Hackathon ",
+      // link: "https://hacktoberfest.digitalocean.com/",
+      badges: ["Samsung", "Hackathon"],
+      title: "Samsung Electronics",
+      logo: samsung,
+      date: "October 2024",
+      description:
+        "The Samsung Coding and Programming Hackathon (October 2024) was an intensive competition focused on solving real-world challenges using Python and other technologies. Participants tackled algorithmic problems, optimized code efficiency, and built innovative solutions. I leveraged Python’s data structures, automation, and backend capabilities to develop scalable applications, demonstrating problem-solving, creativity, and teamwork.",
       // link: "https://www.hkbcol.org/",
       link: "",
       // badges: ["Google ", "GCP", "Google cloud"],
@@ -278,7 +308,7 @@ export const RESUME_DATA = {
       end: "2024",
       activities:
         "I’m a tech enthusiast passionate about building, mentoring, and leading. I’ve developed a departmental website, taught software development, and hold a B.Tech degree. Beyond coding, I’ve led a PUBG esports team and captained a cricket team, honing leadership, strategy, and teamwork skills in both gaming and sports.",
-      logo: HKIS,
+      logo: Bput,
     },
     {
       school: "Christ Junior College",
@@ -287,7 +317,7 @@ export const RESUME_DATA = {
       end: "2020",
       activities:
         " I actively participated in sports. I represented my college in cricket , showcasing my dedication to both academics and athletics. ",
-      logo: CAIS,
+      logo: christ,
     },
   ],
   work: [

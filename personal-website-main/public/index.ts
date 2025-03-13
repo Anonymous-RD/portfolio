@@ -15,11 +15,27 @@ import VideoFast from "./videofast.png";
 import TextBehindImage from "./textbehindimage.png";
 import Bulletpen from "./bulletpen.png";
 import Rohit from "./Rohit.png";
+import Google from "./google1.png";
+import CB from "./codingblock.png";
+import Hacktoberfest from "./hacktoberfest.png";
+import cttc from "./cttc.webp";
+import WB from "./WB.jpg";
+import Bput from "./Bput.png";
+import christ from "./christ.png";
+import samsung from "./samsung.png";
 
 export {
   //   RexanWong,
   Rohit,
   ThirdwebLogo,
+  cttc,
+  samsung,
+  Bput,
+  christ,
+  Hacktoberfest,
+  WB,
+  CB,
+  Google,
   CityUniversityLogo,
   EthGlobalLogo,
   IEEELogo,

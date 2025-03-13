@@ -24,7 +24,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="icon" href="/rohit.ico" type="image/x-icon" />
+        <link rel="icon" href="../public/rohit.ico" type="image/x-icon" />
         <meta
           name="google-adsense-account"
           content="ca-pub-1609710199882100"
