@@ -115,7 +115,7 @@ export const RESUME_DATA = {
       // link: "https://textbehindimage.app",
       badges: ["Google Cloud", "GCP", "Colaboration"],
       title: "Google Cloud ",
-      logo: TextBehindImage,
+      logo: ThirdwebLogo,
       date: "Since October 2024",
       description:
         "Exploring and leveraging Google Cloud services like Compute Engine, Cloud Functions, BigQuery, Firebase, and Kubernetes. Building and deploying cloud-based applications, optimizing performance and cost efficiency.Engaging with the Google Cloud community, participating in tech talks, webinars, and hackathons.",
@@ -128,7 +128,7 @@ export const RESUME_DATA = {
       // link: "https://textbehindimage.app",
       badges: ["MERN", "Cloud", "Hosting"],
       title: "Web_Bocket pvt",
-      logo: TextBehindImage,
+      logo: DeveloperDao,
       date: "July 2024 - December 2024",
       description:
         "Spearheaded multiple projects aligned with organizational goals.Demonstrated innovation and        problem-solving skills in project execution.Contributed to enhancing departmental productivity and efficiency Developed and launched departmental website, improving internal communication. Showcased technical prowess in web development and UI/UX design.Ensured usability and accessibility through responsive design practices.",
@@ -141,7 +141,8 @@ export const RESUME_DATA = {
       // link: "https://textbehindimage.app",
       badges: ["Full-Stack", "Java", "Database"],
       title: " MSME CTTC govt of India",
-      logo: TextBehindImage,
+
+      logo: ThirdwebLogo,
       date: "July 2024 - December 2024",
       description:
         "Directed and delivered numerous projects in alignment with organizational objectives, fostering innovation and boosting departmental efficiency, development and launch of a departmental website that streamlined internal communication while applying advanced web development and UI UX design skills to ensure a user-friendly, accessible, and responsive experience",
@@ -176,17 +177,26 @@ export const RESUME_DATA = {
   ],
   awards: [
     {
-      name: "Hong Kong Blockchain Olympiad",
-      link: "https://www.hkbcol.org/",
-      badges: ["Olympiad", "In Person", "100+ teams"],
-      title: "Gold medalist award",
-      logo: Olympiad,
-      date: "8/2024",
+      name: "Open Source Contributor",
+      // link: "https://hacktoberfest.digitalocean.com/",
+      badges: ["Hacktoberfest", "Open Source", "Digital Ocean"],
+      title: "Hacktoberfest 2024",
+      logo: Bulletpen,
+      date: "October 2024",
       description:
-        "The HKBCOL is a blockchain solution design competition where teams from all secondary schools from Hong Kong compete to pitch and present their blockchain solution to industry leading judges. I was awarded the gold medal (first place) for my project Proof of Workout Protocol and selected to represent Hong Kong at the International Blockchain Olympiad in the Netherlands.",
-      videoLink: "https://www.youtube.com/watch?v=OYj3Vru7Y4g",
-      projectDetailsLink:
-        "https://github.com/rexanwong/proof-of-workout-protocol",
+        "Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and other companies.  I contributed to open source projects on GitHub and earned a limited edition stickers.",
+      // link: "https://www.hkbcol.org/",
+      link: "",
+      // badges: ["Google ", "GCP", "Google cloud"],
+      // title: "Google Cloud Innovator",
+      // logo: Olympiad,
+      // date: "October 2024",
+      // description:
+      //   "The HKBCOL is a blockchain solution design competition where teams from all secondary schools from Hong Kong compete to pitch and present their blockchain solution to industry leading judges. I was awarded the gold medal (first place) for my project Proof of Workout Protocol and selected to represent Hong Kong at the International Blockchain Olympiad in the Netherlands.",
+      // videoLink: "https://www.youtube.com/watch?v=OYj3Vru7Y4g",
+      projectDetailsLink: "",
+      // projectDetailsLink:
+      //  "https://github.com/rexanwong/proof-of-workout-protocol",
     },
     // {
     //   name: "ETHGlobal Online",
