@@ -237,7 +237,7 @@ const Page = () => {
             {RESUME_DATA.contact.social.map((social, index) => (
               <Card key={social.name} className="w-full text-sm">
                 <a
-                  href={social.url}
+                  // href={social.url} first
                   className="flex items-center p-4"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -316,7 +316,7 @@ const Page = () => {
                         <h3 className="inline-flex items-center justify-center gap-x-1 font-semibold leading-none">
                           <a
                             className="hover:underline max-w-[300px]"
-                            href={currentlyBuilding.link}
+                            // href={currentlyBuilding.link} first
                             target="_blank"
                             rel="noopener noreferrer"
                           >
@@ -372,15 +372,15 @@ const Page = () => {
                       autoStart={false}
                     />
                   </p>
-                  {currentlyBuilding.videoLink && (
+                  {/* {currentlyBuilding.videoLink && (
                     <MediaPlayer
                       title={currentlyBuilding.name}
-                      src={currentlyBuilding.videoLink}
+                      // src={currentlyBuilding.videoLink}first
                     >
                       <MediaProvider />
                       <PlyrLayout icons={plyrLayoutIcons} />
                     </MediaPlayer>
-                  )}
+                  )} first*/}
                   <span className="inline-flex gap-x-1">
                     {currentlyBuilding.badges.map((badge, badgeIdx) => (
                       <Badge
@@ -750,15 +750,15 @@ const Page = () => {
           })}
         </Section> */}
       </section>
-
+      {/* 
       <CommandMenu
         links={[
           ...RESUME_DATA.contact.social.map((socialMediaLink) => ({
-            url: socialMediaLink.url,
+            // url: socialMediaLink.url, first
             title: socialMediaLink.name,
           })),
         ]}
-      />
+      /> */}
     </main>
   );
 };
