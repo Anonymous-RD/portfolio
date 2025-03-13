@@ -23,7 +23,7 @@ import { Badge } from "@/components/ui/badge";
 
 import { RESUME_DATA } from "@/data/resume-data";
 import { CommandMenu } from "@/components/command-menu";
-import { RexanWong } from "@/public";
+import { Rohit } from "@/public";
 import ScrambleIn, {
   ScrambleInHandle,
 } from "@/fancy/components/text/scramble-in";
@@ -143,7 +143,7 @@ const Page = () => {
             <Avatar className="size-28">
               <AvatarImage
                 alt={RESUME_DATA.name}
-                src={RexanWong.src}
+                src={Rohit.src}
                 className="transition-opacity duration-300 ease-in-out group-hover:opacity-0"
               />
               <AvatarImage
