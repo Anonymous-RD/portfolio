@@ -750,15 +750,15 @@ const Page = () => {
           })}
         </Section> */}
       </section>
-      {/* 
+
       <CommandMenu
         links={[
           ...RESUME_DATA.contact.social.map((socialMediaLink) => ({
-            // url: socialMediaLink.url, first
+            url: socialMediaLink.url,
             title: socialMediaLink.name,
           })),
         ]}
-      /> */}
+      />
     </main>
   );
 };
