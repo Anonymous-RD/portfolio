@@ -41,11 +41,11 @@ export const RESUME_DATA = {
   about:
     "4+ years in software development , Open-source contributor , Google Cloud Innovator , UI/UX, intelligent automation, and content creation.",
   aboutBulletPoints: [
-    "Google Cloud Innovator and Open-source contributor at Hacktoberfest",
+    "Google Cloud Innovator , Open-source contributor @Hacktoberfest   ",
+    " Winner of Samsung hackathon,  ex-intern @Samsung. ",
     "4+ years in software development, specializing in web development, UI/UX design, and intelligent automation.",
     "3 years in content creation and copywriting, crafting engaging and technical content.",
     "Ex-Software Engineer at Central Tool Room & Training Centre (MSME), Government of India.",
-    "Skilled in Python, Java, C++, JavaScript, React, Django, MERN stack, and building intuitive user experiences.",
   ],
   avatarUrl1: Rohit,
   avatarUrl2: "https://avatars.githubusercontent.com/u/96042610?v=4",
@@ -83,7 +83,7 @@ export const RESUME_DATA = {
         url: "https://github.com/Anonymous-RD",
         icon: GitHubIcon,
         description:
-          "Code repositories for my hackathon projects & personal tools",
+          "Code repositories for  hackathon projects & personal tools",
       },
     ],
   },
@@ -212,7 +212,7 @@ export const RESUME_DATA = {
       badges: ["Samsung", "Hackathon"],
       title: "Samsung Electronics",
       logo: samsung,
-      date: "October 2024",
+      date: "January 2023",
       description:
         "The Samsung Coding and Programming Hackathon (October 2024) was an intensive competition focused on solving real-world challenges using Python and other technologies. Participants tackled algorithmic problems, optimized code efficiency, and built innovative solutions. I leveraged Python’s data structures, automation, and backend capabilities to develop scalable applications, demonstrating problem-solving, creativity, and teamwork.",
       // link: "https://www.hkbcol.org/",
