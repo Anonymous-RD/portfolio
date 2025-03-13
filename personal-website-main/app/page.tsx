@@ -125,7 +125,6 @@ const Page = () => {
                   autoStart={false}
                 />
               </a>
-              {/* <p>hello there</p> */}
             </p>
 
             <div className="hidden flex-col gap-x-1 font-mono text-sm text-muted-foreground print:flex">
@@ -145,7 +144,6 @@ const Page = () => {
               <AvatarImage
                 alt={RESUME_DATA.name}
                 src={Rohit.src}
-                // src={RESUME_DATA.avatarUrl1}
                 className="transition-opacity duration-300 ease-in-out group-hover:opacity-0"
               />
               <AvatarImage
@@ -237,7 +235,7 @@ const Page = () => {
             {RESUME_DATA.contact.social.map((social, index) => (
               <Card key={social.name} className="w-full text-sm">
                 <a
-                  // href={social.url} first
+                  href={"url" in social ? social.url : "#"}
                   className="flex items-center p-4"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -293,7 +291,7 @@ const Page = () => {
           <h2 className="text-xl font-bold">
             <ScrambleIn
               ref={(el) => (sectionHeadingRefs.current[0] = el)}
-              text="Work Experience"
+              text="Currently building"
               scrambleSpeed={30}
               scrambledLetterCount={3}
               autoStart={false}
@@ -316,7 +314,7 @@ const Page = () => {
                         <h3 className="inline-flex items-center justify-center gap-x-1 font-semibold leading-none">
                           <a
                             className="hover:underline max-w-[300px]"
-                            // href={currentlyBuilding.link} first
+                            // href={currentlyBuilding.link}
                             target="_blank"
                             rel="noopener noreferrer"
                           >
@@ -375,12 +373,12 @@ const Page = () => {
                   {/* {currentlyBuilding.videoLink && (
                     <MediaPlayer
                       title={currentlyBuilding.name}
-                      // src={currentlyBuilding.videoLink}first
+                      src={currentlyBuilding.videoLink}
                     >
                       <MediaProvider />
                       <PlyrLayout icons={plyrLayoutIcons} />
                     </MediaPlayer>
-                  )} first*/}
+                  )} */}
                   <span className="inline-flex gap-x-1">
                     {currentlyBuilding.badges.map((badge, badgeIdx) => (
                       <Badge
@@ -407,7 +405,7 @@ const Page = () => {
                 {/* <CardFooter>
                   <Button>
                     <a
-                      href={currentlyBuilding.projectDetailsLink}
+                      // href={currentlyBuilding.projectDetailsLink}
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -531,7 +529,7 @@ const Page = () => {
                   </span>
                 </CardContent>
 
-                <CardFooter>
+                {/* <CardFooter>
                   <Button>
                     <a
                       href={award.projectDetailsLink}
@@ -547,7 +545,7 @@ const Page = () => {
                       />
                     </a>
                   </Button>
-                </CardFooter>
+                </CardFooter> */}
               </Card>
             );
           })}
@@ -635,7 +633,7 @@ const Page = () => {
           <h2 className="text-xl font-bold">
             <ScrambleIn
               ref={(el) => (sectionHeadingRefs.current[3] = el)}
-              text="Experience"
+              text="Work Experience"
               scrambleSpeed={30}
               scrambledLetterCount={3}
               autoStart={false}
@@ -726,8 +724,8 @@ const Page = () => {
               </Card>
             );
           })}
-        </Section> */}
-        {/* <Section id="music">
+        </Section>
+        <Section id="music">
           <h2 className="text-xl font-bold">
             <ScrambleIn
               ref={(el) => (sectionHeadingRefs.current[4] = el)}
@@ -754,8 +752,8 @@ const Page = () => {
       <CommandMenu
         links={[
           ...RESUME_DATA.contact.social.map((socialMediaLink) => ({
+            url: "url" in socialMediaLink ? socialMediaLink.url : "#",
             title: socialMediaLink.name,
-            url: socialMediaLink.url,
           })),
         ]}
       />
