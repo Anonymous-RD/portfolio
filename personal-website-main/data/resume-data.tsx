@@ -39,7 +39,7 @@ export const RESUME_DATA = {
   location: "Odisha, India",
   locationLink: "https://www.google.com/maps/place/India",
   about:
-    "4+ years in software development , Open-source contributor , Google Cloud Innovator , UI/UX, intelligent automation, and content creation.",
+    "4+ years in software development , Open-source contributor , Google Cloud Innovator , UI/UX Designer, intelligent automation, and content creation.",
   aboutBulletPoints: [
     "Google Cloud Innovator , Open-source contributor @Hacktoberfest   ",
     " Winner of Samsung hackathon,  ex-intern @Samsung. ",
@@ -304,8 +304,8 @@ export const RESUME_DATA = {
     {
       school: "Biju Pattanaik University of Technology",
       degree: "B.Tech in Computer Science and Engineering",
-      start: "2020",
-      end: "2024",
+      start: "2018",
+      end: "2022",
       activities:
         "I’m a tech enthusiast passionate about building, mentoring, and leading. I’ve developed a departmental website, taught software development, and hold a B.Tech degree. Beyond coding, I’ve led a PUBG esports team and captained a cricket team, honing leadership, strategy, and teamwork skills in both gaming and sports.",
       logo: Bput,
