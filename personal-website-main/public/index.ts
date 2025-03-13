@@ -14,10 +14,10 @@ import CAIS from "./cais.png";
 import VideoFast from "./videofast.png";
 import TextBehindImage from "./textbehindimage.png";
 import Bulletpen from "./bulletpen.png";
-import Rohit from "./rohit.png";
+import Rohit from "./Rohit.png";
 
 export {
-//   RexanWong,
+  //   RexanWong,
   Rohit,
   ThirdwebLogo,
   CityUniversityLogo,
