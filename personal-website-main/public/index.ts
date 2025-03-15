@@ -1,4 +1,4 @@
-// import RexanWong from "./rexanwong.png";
+// import Rohit from "./Rohit.png";
 import ThirdwebLogo from "./thirdweb.png";
 import CityUniversityLogo from "./cityuniversity.png";
 import EthGlobalLogo from "./ethglobal.jpeg";
@@ -25,7 +25,7 @@ import christ from "./christ.png";
 import samsung from "./samsung.png";
 
 export {
-  //   RexanWong,
+  //   Rohit,
   Rohit,
   ThirdwebLogo,
   cttc,

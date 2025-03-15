@@ -6,7 +6,7 @@ import {
   YouTubeIcon,
 } from "@/components/icons";
 import {
-  // RexanWong,
+  // Rohit,
   Rohit,
   CityUniversityLogo,
   EthGlobalLogo,
@@ -39,7 +39,7 @@ export const RESUME_DATA = {
   location: "Odisha, India",
   locationLink: "https://www.google.com/maps/place/India",
   about:
-    "4+ years in software development , Open-source contributor , Google Cloud Innovator , UI/UX Designer, intelligent automation, and content creation.",
+    "4+ years in software development , Open-source contributor , Google Cloud Innovator , UI/UX Designer, intelligent automation and content creation.",
   aboutBulletPoints: [
     "Google Cloud Innovator , Open-source contributor @Hacktoberfest   ",
     " Winner of Samsung hackathon,  ex-intern @Samsung. ",
@@ -74,7 +74,7 @@ export const RESUME_DATA = {
       },
       // {
       //   name: "YouTube",
-      //   url: "https://www.youtube.com/@rexanwong/videos",
+      //   url: "https://www.youtube.com/@Rohit/videos",
       //   icon: YouTubeIcon,
       //   description: "Long form content and startup vlogs",
       // },
@@ -151,7 +151,7 @@ export const RESUME_DATA = {
       title: " MSME CTTC govt of India",
 
       logo: cttc,
-      date: "July 2024 - December 2024",
+      date: "Since December 2021",
       description:
         "Directed and delivered numerous projects in alignment with organizational objectives, fostering innovation and boosting departmental efficiency, development and launch of a departmental website that streamlined internal communication while applying advanced web development and UI UX design skills to ensure a user-friendly, accessible, and responsive experience",
       // videoLink: "https://www.youtube.com/watch?v=5Oy23JO4qCI"
@@ -204,7 +204,7 @@ export const RESUME_DATA = {
       // videoLink: "https://www.youtube.com/watch?v=OYj3Vru7Y4g",
       projectDetailsLink: "",
       // projectDetailsLink:
-      //  "https://github.com/rexanwong/proof-of-workout-protocol",
+      //  "https://github.com/Rohit/proof-of-workout-protocol",
     },
     {
       name: "Samsung Coding and programming Hackathon ",
@@ -217,16 +217,6 @@ export const RESUME_DATA = {
         "The Samsung Coding and Programming Hackathon (October 2024) was an intensive competition focused on solving real-world challenges using Python and other technologies. Participants tackled algorithmic problems, optimized code efficiency, and built innovative solutions. I leveraged Python’s data structures, automation, and backend capabilities to develop scalable applications, demonstrating problem-solving, creativity, and teamwork.",
       // link: "https://www.hkbcol.org/",
       link: "",
-      // badges: ["Google ", "GCP", "Google cloud"],
-      // title: "Google Cloud Innovator",
-      // logo: Olympiad,
-      // date: "October 2024",
-      // description:
-      //   "The HKBCOL is a blockchain solution design competition where teams from all secondary schools from Hong Kong compete to pitch and present their blockchain solution to industry leading judges. I was awarded the gold medal (first place) for my project Proof of Workout Protocol and selected to represent Hong Kong at the International Blockchain Olympiad in the Netherlands.",
-      // videoLink: "https://www.youtube.com/watch?v=OYj3Vru7Y4g",
-      projectDetailsLink: "",
-      // projectDetailsLink:
-      //  "https://github.com/rexanwong/proof-of-workout-protocol",
     },
     // {
     //   name: "ETHGlobal Online",
@@ -251,11 +241,11 @@ export const RESUME_DATA = {
     //     "Consensys, one of the biggest blockchain companies, hosted NAVH: Not Another Virtual Hackathon beginning July 6th, 2023, for technical and non-technical builders to bring their skills to the table. Builders from anywhere in the world can join to compete for over $115,500 in bounties, using Cosensys products to build something.  I built Proof of Workout Protocol : a dApp on Linea (a blockchain developed by leading blockchain company Cosensys) designed to motivate and reward physical fitness through a gamified system of quests and token-based incentive.  ",
     //   videoLink: "https://www.youtube.com/watch?v=OYj3Vru7Y4g",
     //   projectDetailsLink:
-    //     "https://github.com/rexanwong/proof-of-workout-protocol",
+    //     "https://github.com/Rohit/proof-of-workout-protocol",
     // },
     // {
     //   name: "Developer Dao & Mina Protocol Hackathon",
-    //   link: "https://twitter.com/rexan_wong/status/1681156987143462912",
+    //   link: "https://twitter.com/Rohit/status/1681156987143462912",
     //   badges: ["Hackathon", "Online", "40+ Projects"],
     //   title: "1st Place",
     //   logo: DeveloperDao,
@@ -263,11 +253,11 @@ export const RESUME_DATA = {
     //   description:
     //     "Developer DAO, the biggest Web3 Developer Organisation, and Mina Protocol, a zero knowledge based blockchain with a market cap of $800 million USD, ran a week-long, remote hackathon with ~ $10,000 in prizes to be won in USDC, Mina Token and CODE.  The hackathon is focused on building zero-knowledge applications on Mina Protocol with SnarkyJS.   I built a privacy-focused decentralized zkApp that aims to enable anonymous and secure protests where participants can join and support various causes while preserving their privacy.  This hackathon was the most hardcore hackathon I've participated in : joining the hackathon, knowing very little about zero-knowledge (zk) technology, let alone building zk technology.  Throughout the process, I had to dive deep and learn all these new concepts while building my zkApp.  In the end, my project won first place in the hackathon, out of 40 other projects, and this victory provoked me to go further deeper into this tough concept of zero knowledge technology.",
     //   videoLink: "https://www.youtube.com/watch?v=UkD0pTwgjBg&t=481s",
-    //   projectDetailsLink: "https://github.com/rexanwong/zk-protest",
+    //   projectDetailsLink: "https://github.com/Rohit/zk-protest",
     // },
     // {
     //   name: "ETHGlobal Waterloo",
-    //   link: "https://x.com/rexan_wong/status/1673074124833402880?s=20",
+    //   link: "https://x.com/Rohit/status/1673074124833402880?s=20",
     //   badges: ["Hackathon", "In Person", "200+ teams"],
     //   title: "Best Use of Metamask SDK",
     //   logo: EthGlobalLogo,
@@ -279,7 +269,7 @@ export const RESUME_DATA = {
     // },
     // {
     //   name: "Apple Swift Student Challenge",
-    //   link: "https://twitter.com/rexan_wong/status/1656085283836940288",
+    //   link: "https://twitter.com/Rohit/status/1656085283836940288",
     //   badges: ["Hackathon", "Online", "13500+ Submissions"],
     //   title: "WWDC23 Scholar",
     //   logo: Apple,
@@ -287,7 +277,7 @@ export const RESUME_DATA = {
     //   description:
     //     "The Swift Student Challenge at WWDC (Worldwide Developers Conference) is an annual competition organized by Apple to celebrate the ingenuity and expertise of student developers using Swift.  Apple picks around 300 applications out of a pool of more than 10,000+ applicants to win, and I was one of the 300 applicants to win the challenge.   I built an iOS app/game that challenges users to find an image of a random word generated by the app in their photo album, then used machine learning models to verify that the image being selected matches the random word.",
     //   videoLink: null,
-    //   projectDetailsLink: "https://github.com/rexanwong/photorush",
+    //   projectDetailsLink: "https://github.com/Rohit/photorush",
     // },
   ],
   // notableShoutouts: [
@@ -313,14 +303,15 @@ export const RESUME_DATA = {
     {
       school: "Christ Junior College",
       degree: "High school",
-      start: "2018",
-      end: "2020",
+      start: "2016",
+      end: "2018",
       activities:
         " I actively participated in sports. I represented my college in cricket , showcasing my dedication to both academics and athletics. ",
       logo: christ,
     },
   ],
   work: [
+    // for work use videoLink and projectDetailsLink in future for projects that have videos and project details links
     {
       company: "Thirdweb",
       link: "https://thirdweb.com",
@@ -384,7 +375,7 @@ export const RESUME_DATA = {
   //     projectDescription:
   //       "An iOS app that tracks your sitting posture in real time and alerts you when your posture becomes bad (like a cooked spaghetti noodle)",
   //     badges: ["iOS", "CoreML", "CreateML", "UIKit"],
-  //     projectLink: "https://github.com/RexanWONG/sitting-posture-buddy",
+  //     projectLink: "https://github.com/Rohit/sitting-posture-buddy",
   //   },
   //   {
   //     projectName: "Traning a model to play Doom from pixels",
@@ -392,14 +383,14 @@ export const RESUME_DATA = {
   //       "A deep neural network that is trained to collect objects in a 3D environment based on the game of Doom, using Sample Factory, an asynchronous implementation of the PPO algorithm.",
   //     badges: ["Python", "Reinforcement learning", "Sample Factory", "VizDoom"],
   //     projectLink:
-  //       "https://huggingface.co/rexanwong/rl_course_vizdoom_health_gathering_supreme",
+  //       "https://huggingface.co/Rohit/rl_course_vizdoom_health_gathering_supreme",
   //   },
   //   {
   //     projectName: "Kangaroo or Giraffe",
   //     projectDescription:
   //       "A deep CNN image classifier that detects between a kangaroo or a giraffe",
   //     badges: ["Python", "Tensorflow", "Keras"],
-  //     projectLink: "https://github.com/RexanWONG/kangaroo-or-giraffe",
+  //     projectLink: "https://github.com/Rohit/kangaroo-or-giraffe",
   //   },
   //   {
   //     projectName: "Analyzing referee decisions in the EPL",
@@ -407,7 +398,7 @@ export const RESUME_DATA = {
   //       "Analyzing and uncovering patterns related to yellow card decisions and understand the tendencies of different referees in the english premier league from 2017-2022",
   //     badges: ["Python", "Numpy", "Pandas"],
   //     projectLink:
-  //       "https://github.com/RexanWONG/analysis_referee_decisions_in_english_premier_league/blob/main/analyzing_referee_decisions_in_epl_2017_2022.ipynb",
+  //       "https://github.com/Rohit/analysis_referee_decisions_in_english_premier_league/blob/main/analyzing_referee_decisions_in_epl_2017_2022.ipynb",
   //   },
   // ],
   music: [
