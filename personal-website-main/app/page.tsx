@@ -291,7 +291,7 @@ const Page = () => {
           <h2 className="text-xl font-bold">
             <ScrambleIn
               ref={(el) => (sectionHeadingRefs.current[0] = el)}
-              text="Currently building"
+              text="Currently Working"
               scrambleSpeed={30}
               scrambledLetterCount={3}
               autoStart={false}
