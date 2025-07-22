@@ -159,7 +159,7 @@ export const RESUME_DATA = {
       title: " MSME CTTC govt of India",
 
       logo: cttc,
-      date: "Since December 2021",
+      date: " August 2021 - june 2024",
       description:
         "Directed and delivered numerous projects in alignment with organizational objectives, fostering innovation and boosting departmental efficiency, development and launch of a departmental website that streamlined internal communication while applying advanced web development and UI UX design skills to ensure a user-friendly, accessible, and responsive experience",
       // videoLink: "https://www.youtube.com/watch?v=5Oy23JO4qCI"
