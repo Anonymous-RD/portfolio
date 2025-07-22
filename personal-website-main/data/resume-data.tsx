@@ -98,26 +98,34 @@ export const RESUME_DATA = {
     "Remotion",
     "Supabase",
     "Vercel",
-    "Solidity",
-    "Foundry",
-    "Hardhat",
-    "Thirdweb",
-    "Swift",
+    "Prisma",
+    "PostgreSQL",
+    "MongoDB",
+    "ExpressJS",
+    "Zod",
+    "OpenAI",
+    "Google Cloud Platform",
+    "Firebase",
+    "Git",
+    "GitHub",
+    "Figma",
+    "UI/UX Design",
+    "",
   ],
   currentlyBuilding: [
-    {
-      name: "Product Engineer",
-      // link: "https://textbehindimage.app",
-      badges: ["Mobile Dev", "Design tool"],
-      title: "Coding Blocks",
-      logo: CB,
-      date: "Since January 2025",
-      description:
-        "Increased app engagement by 12% through performance optimizations and UI/UX improvements. Reduced crash rates by 7%  by identifying and fixing memory leaks and rendering issues Guided students in building production-ready Android apps, preparing them for industry roles.",
-      // videoLink: "https://www.youtube.com/watch?v=5Oy23JO4qCI"
+    // {
+    //   name: "Product Engineer",
+    //   // link: "https://textbehindimage.app",
+    //   badges: ["Mobile Dev", "Design tool"],
+    //   title: "Coding Blocks",
+    //   logo: CB,
+    //   date: "Since January 2025",
+    //   description:
+    //     "Increased app engagement by 12% through performance optimizations and UI/UX improvements. Reduced crash rates by 7%  by identifying and fixing memory leaks and rendering issues Guided students in building production-ready Android apps, preparing them for industry roles.",
+    //   // videoLink: "https://www.youtube.com/watch?v=5Oy23JO4qCI"
 
-      // projectDetailsLink: "https://textbehindimage.app",
-    },
+    //   // projectDetailsLink: "https://textbehindimage.app",
+    // },
     {
       name: "Google Cloud Innovator ",
       // link: "https://textbehindimage.app",
@@ -137,9 +145,9 @@ export const RESUME_DATA = {
       badges: ["MERN", "Cloud", "Hosting"],
       title: "Web_Bocket pvt",
       logo: WB,
-      date: "July 2024 - December 2024",
+      date: "Since July 2024",
       description:
-        "Spearheaded multiple projects aligned with organizational goals.Demonstrated innovation and        problem-solving skills in project execution.Contributed to enhancing departmental productivity and efficiency Developed and launched departmental website, improving internal communication. Showcased technical prowess in web development and UI/UX design.Ensured usability and accessibility through responsive design practices.",
+        "Spearheaded multiple projects aligned with organizational goals.Demonstrated innovation and        problem-solving skills in project execution.Contributed to enhancing  productivity and efficiency Developed and launched departmental website, improving internal communication. Showcased technical prowess in web development and UI/UX design.Ensured usability and accessibility through responsive design practices.",
       // videoLink: "https://www.youtube.com/watch?v=5Oy23JO4qCI"
 
       // projectDetailsLink: "https://textbehindimage.app",
