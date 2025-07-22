@@ -346,7 +346,7 @@ export const RESUME_DATA = {
       company: "Photogtrapher and Editor",
       // link: "https://www.artatechfin.com/",
       badges: [],
-      title: "Sparker Photgraphy  ",
+      title: "Sparker Photography  ",
       logo: IEEELogo,
       start: "2023",
       end: "Present",
