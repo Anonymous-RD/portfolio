@@ -142,7 +142,7 @@ export const RESUME_DATA = {
     {
       name: "Software Developement Engineer ",
       // link: "https://textbehindimage.app",
-      badges: ["MERN", "Cloud", "Hosting"],
+      badges: ["Developer", "MERN", "Cloud", "Hosting"],
       title: "Web_Bocket pvt",
       logo: WB,
       date: "Since July 2024",
@@ -195,7 +195,7 @@ export const RESUME_DATA = {
     {
       name: "Open Source Contributor",
       // link: "https://hacktoberfest.digitalocean.com/",
-      badges: ["Hacktoberfest", "Open Source", "Digital Ocean"],
+      badges: ["Hacktoberfest", "Open Source", "Digital Ocean", "contributer"],
       title: "Hacktoberfest 2024",
       logo: Hacktoberfest,
       date: "October 2024",
@@ -321,61 +321,60 @@ export const RESUME_DATA = {
   work: [
     // for work use videoLink and projectDetailsLink in future for projects that have videos and project details links
     {
-      company: "Thirdweb",
-      link: "https://thirdweb.com",
+      company: "Content Creator",
+      // link: "https://thirdweb.com",
       badges: ["Remote"],
-      title: "Thirdweb Ambassador",
+      title: "Instagram",
       logo: ThirdwebLogo,
       start: "2023",
       end: "Present",
       description:
-        "A Thirdweb Ambassador is someone that Thirdweb, the leading blockchain infrastrcure company, has selected to be ambassadors for Thirdweb.  As a Thirdweb ambassador, I share knowledge on new groundbreaking web3 tools, represent Thirdweb in networking events, create content for Thirdweb, and get rewarded with benefits exclusive to ambassadors",
+        "Scripted and produced 100+ reels. Created brandeed content for various companies, Developed engaging and technical content that resonates with target audiences.imporoving reach by  40%. Collaborated with brands to create content that aligns with their marketing goals and objectives.",
     },
     {
-      company: "City University of Hong Kong",
-      link: "https://www.ee.cityu.edu.hk/prospective_students/Gifted_Education_Fund",
+      company: "Graphics Designer",
+      // link: "https://www.ee.cityu.edu.hk/prospective_students/Gifted_Education_Fund",
       badges: [],
-      title:
-        "Speaker and Mentor for the CityU-EE Gifted Education Programme on Cryptography, Blockchain, and Fintech",
+      title: "Freelance",
       logo: CityUniversityLogo,
-      start: "5/2023",
-      end: "12/2023",
+      start: "2023",
+      end: "Present",
       description:
-        "The Coding, Cryptography and FinTech (CCF) Skills Education for Gifted Students programm is a programm aimed for the most gifted high school students around Hong Kong, teaching them about coding, cryptography, and fintech.  As a speaker and a mentor, I hosted workshops and lectures for the program to teach the students about these topics",
+        "Conducted and colloborated with clients to understand their design needs and preferences. Created visually appealing and effective designs for media campaingns , merchandise design ,various projects, including logos, brochures, and social media graphics. Developed and presented design concepts to clients, incorporating their feedback and making necessary revisions",
     },
     {
-      company: "IEEE Blockchain Hong Kong",
-      link: "https://www.artatechfin.com/",
+      company: "Photogtrapher and Editor",
+      // link: "https://www.artatechfin.com/",
       badges: [],
-      title: "Mentor and Volunteer",
+      title: "Sparker Photgraphy  ",
       logo: IEEELogo,
-      start: "7/2022",
-      end: "8/2022",
+      start: "2023",
+      end: "Present",
       description:
-        "The IEEE Hong Kong Blockchain Local Group is the official blockchain group for Hong Kong under the Institute of Electrical and Electronics Engineers (IEEE)'s Hong Kong Section.   The IEEE HK Blockchain Local Group hosted a Web3 hackathon, targeted towards university students, to build Web3 applications and compete for prizes up to $100K HKD.  Over 100 teams joined, from 5 different universities across Hong Kong.  As a mentor, I was in charge of giving guidances and tips to the teams participating about the hackathon, as well as host mini workshops and create technical Youtube tutorials about blockchain development.  In addition, as a volunteer, I was in charge of setting up the venue and more, ensuring that the hackathon day in person was a smooth experience, as well as build the website for the hackathon",
+        "photographer and editor     for Sparker Photography, specializing in capturing high-quality images and editing them to create visually stunning content.  I have a keen eye for detail and a passion for photography, which allows me to create images that tell a story and evoke emotions.  My editing skills enable me to enhance the images and bring out their full potential, resulting in professional-looking photographs that exceed client expectations.",
     },
-    {
-      company: "Arta Tech Fin Corporation Limited",
-      link: "https://www.artatechfin.com/",
-      badges: ["Internship", "Hybrid"],
-      title: "Summer Intern",
-      logo: Arta,
-      start: "7/2022",
-      end: "8/2022",
-      description:
-        "During the summer of 2022, I interned at Arta Tech Fin as a blockchain research intern. My responsibilities included conducting research on blockchain technologies and their potential applications in the financial industry.  At Arta Tech Fin, I had the chance to work with experienced professionals in the financial industry and learn about the latest trends and developments in blockchain technology. I gained valuable insights into how blockchain can be used to solve problems and improve processes in the financial sector, and was able to contribute to the company's research efforts.",
-    },
-    {
-      company: "CryptoBLK Limited",
-      link: "https://www.cryptoblk.io/",
-      badges: ["Internship", "Hybrid"],
-      title: "Summer Intern",
-      logo: Cryptoblk,
-      start: "6/2022",
-      end: "8/2022",
-      description:
-        "At Cryptoblk, I had the opportunity to work with a talented team of developers and learn about the latest technologies and trends in the blockchain industry. I gained valuable experience in smart contract development and blockchain application development, and was able to contribute to a variety of projects that helped to improve the company's products and services.  I also worked with the business development team and IEEE HK Blockchain to host the Web3 Dev Hackathon 2022",
-    },
+    // {
+    //   company: "Arta Tech Fin Corporation Limited",
+    //   link: "https://www.artatechfin.com/",
+    //   badges: ["Internship", "Hybrid"],
+    //   title: "Summer Intern",
+    //   logo: Arta,
+    //   start: "7/2022",
+    //   end: "8/2022",
+    //   description:
+    //     "During the summer of 2022, I interned at Arta Tech Fin as a blockchain research intern. My responsibilities included conducting research on blockchain technologies and their potential applications in the financial industry.  At Arta Tech Fin, I had the chance to work with experienced professionals in the financial industry and learn about the latest trends and developments in blockchain technology. I gained valuable insights into how blockchain can be used to solve problems and improve processes in the financial sector, and was able to contribute to the company's research efforts.",
+    // },
+    // {
+    //   company: "CryptoBLK Limited",
+    //   link: "https://www.cryptoblk.io/",
+    //   badges: ["Internship", "Hybrid"],
+    //   title: "Summer Intern",
+    //   logo: Cryptoblk,
+    //   start: "6/2022",
+    //   end: "8/2022",
+    //   description:
+    //     "At Cryptoblk, I had the opportunity to work with a talented team of developers and learn about the latest technologies and trends in the blockchain industry. I gained valuable experience in smart contract development and blockchain application development, and was able to contribute to a variety of projects that helped to improve the company's products and services.  I also worked with the business development team and IEEE HK Blockchain to host the Web3 Dev Hackathon 2022",
+    // },
   ],
   // dataScience: [
   //   {
@@ -409,18 +408,18 @@ export const RESUME_DATA = {
   //       "https://github.com/Rohit/analysis_referee_decisions_in_english_premier_league/blob/main/analyzing_referee_decisions_in_epl_2017_2022.ipynb",
   //   },
   // ],
-  music: [
+  Freelance: [
     {
-      awardName: "Grade 8 Piano Performance (Pass)",
-      year: "2024",
+      awardName: "Content Creator",
+      year: "since 2024",
       description:
-        "Issued by The Associated Board of the Royal Schools of Music",
+        "Scripted and produced 100+ reels. Created brandeed content for various companies, Developed engaging and technical content that resonates with target audiences.imporoving reach by  40%. Collaborated with brands to create content that aligns with their marketing goals and objectives.",
     },
     {
-      awardName: "Grade 7 Piano Performance (Distinction)",
-      year: "2023",
+      awardName: "Graphics designer",
+      year: "since 2022",
       description:
-        "Issued by The Associated Board of the Royal Schools of Music",
+        "Conducted and colloborated with clients to understand their design needs and preferences. Created visually appealing and effective designs for media campaingns , merchandise design ,various projects, including logos, brochures, and social media graphics. Developed and presented design concepts to clients, incorporating their feedback and making necessary revisions",
     },
   ],
 } as const;
